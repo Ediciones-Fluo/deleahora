@@ -1,3 +1,10 @@
+<p align="center"><img align="center" width="250" src="https://cdn.deleahora.com/assets/images/logo-color-whitebg_social.png"/></p>
+<p align="center">
+  <b>Aprender español online<br>de forma rápida y fácil</b>
+</p>
+
+---
+
 # Mapa del sitio web
 
 - **DELE Ahora**
